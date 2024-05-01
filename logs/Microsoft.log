@@ -1,0 +1,34 @@
+An account was successfully logged on.
+Subject:
+    Security ID: SYSTEM
+    Account Name: DESKTOP-LLHJ389$
+    Account Domain: WORKGROUP
+    Logon ID: 0x3E7
+Logon Information:
+    Logon Type: 7
+    Restricted Admin Mode: -
+    Virtual Account: No
+    Elevated Token: No
+Impersonation Level: Impersonation
+New Logon:
+    Security ID: AzureAD\RandyFranklinSmith
+    Account Name: rsmith@montereytechgroup.com
+    Account Domain: AzureAD
+    Logon ID: 0xFD5113F
+    Linked Logon ID: 0xFD5112A
+    Network Account Name: -
+    Network Account Domain: -
+    Logon GUID: {00000000-0000-0000-0000-000000000000}
+Process Information:
+    Process ID: 0x30c
+    Process Name: C:\Windows\System32\lsass.exe
+Network Information:
+    Workstation Name: DESKTOP-LLHJ389
+    Source Network Address: -
+    Source Port: -
+Detailed Authentication Information:
+    Logon Process: Negotiate
+    Authentication Package: Negotiate
+    Transited Services: -
+    Package Name (NTLM only): -
+    Key Length: 0
